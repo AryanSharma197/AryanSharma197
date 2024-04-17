@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend development and dsa**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AryanSharma197?tab=repositories](https://github.com/AryanSharma197?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/AryanSharma197?tab=repositories)
 
 - 📫 How to reach me **aryan193sharma@gmail.com**
 
