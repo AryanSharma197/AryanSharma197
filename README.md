@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansharma197&label=Profile%20views&color=0e75b6&style=flat" alt="aryansharma197" /> </p>
 
-- 🔭 I’m currently working on [E-Commerce App](https://github.com/AryanSharma197/Ecommerce-App)
+<!-- - 🔭 I’m currently working on [E-Commerce App](https://github.com/AryanSharma197/Ecommerce-App)
 
 - 🌱 I’m currently learning **Backend development and dsa**
 
+- ⚡ Fun fact **I think i am very serious**
+-->
 - 👨‍💻 All of my projects are available [here](https://github.com/AryanSharma197?tab=repositories)
 
 - 📫 How to reach me **aryan193sharma@gmail.com**
-
-- ⚡ Fun fact **I think i am very serious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
